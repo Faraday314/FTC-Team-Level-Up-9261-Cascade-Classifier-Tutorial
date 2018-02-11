@@ -3,3 +3,8 @@ To follow this tutorial, first clone the repository using git or by simply downl
 
 ## Dependencies
 This tutorial uses some tools, like desc_format, which are coded in Python and so you must download Python in order to correctly train your cascade (unless you want to do the tools' fucntions by hand). Python will likely be phased out eventually in favor of converting the .py tools to .exe tools. The latest version of Python can be downloaded [here](https://www.python.org/downloads/)
+
+## Wiki Link
+Here is a link to the wiki for anyone on a smartphone:
+
+https://github.com/robotics0001/FTC-Team-Level-Up-9261-Cascade-Classifier-Tutorial/wiki
