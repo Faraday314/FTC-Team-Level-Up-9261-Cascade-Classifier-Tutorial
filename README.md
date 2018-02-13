@@ -6,6 +6,11 @@ To follow this tutorial, first clone the repository using git or by simply downl
 
 I have replaced all the python files with statically linked .exe files, but the raw .py files will still be contained in the python directory of the tools folder for anyone that wants to improve them. Enjoy your dependency free tutorial!
 
+## Upcoming Tools (Sorted by how far along they are)
+Automatic cropping program based on annotation data. Useful for creating synthetic positives
+BGR to RGB image converter, because you probably don't want red to be blue.
+Semi-Automatic Annotator, because annotation takes way to long. It will require an already trained cascade and a breif look through the images though
+
 ## Wiki Link
 Here is a link to the wiki for anyone on a smartphone:
 
