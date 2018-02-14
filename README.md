@@ -8,7 +8,9 @@ I have replaced all the python files with statically linked .exe files, but the 
 
 ## Upcoming Tools (Sorted by how far along they are)
 Automatic cropping program based on annotation data. Useful for creating synthetic positives
+
 BGR to RGB image converter, because you probably don't want red to be blue.
+
 Semi-Automatic Annotator, because annotation takes way to long. It will require an already trained cascade and a brief look through the images though
 
 ## Wiki Link
